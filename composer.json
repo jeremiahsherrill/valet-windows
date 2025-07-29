@@ -1,5 +1,5 @@
 {
-	"name": "ycodetech/valet-windows",
+	"name": "jeremiahsherrill/valet-windows",
 	"description": "A more enjoyable local development experience for Windows. A Windows port of the popular Laravel Valet and a fork of cretueusebiu/valet-windows, with new features.",
 	"keywords": [
 		"laravel",
